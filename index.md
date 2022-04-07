@@ -13,9 +13,12 @@ My name is *Hieu Pham* <br>
 1. One
 2. Two
 3. Three
-'Inline code' blah blah
+'Inline code' blah blah<br>
 
+```
 # code block
-print 'Hello World!'
+print 'hello'
+print 'world'
+```
 
 ---
