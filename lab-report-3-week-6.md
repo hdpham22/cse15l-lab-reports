@@ -9,3 +9,14 @@ This is the scp comand
 ## Setup Github Access from ieng6
 ![](images/Pubkey.png)
 This is my public key in GitHub
+![](images/privkey.png)
+This is my private key<br>
+
+## Copy whole directories with scp -r
+![](images/copy.png)
+copied directory
+![](images/tests.png)
+tests run after directory copied
+![](images/part1.png)
+![](images/part2.png)
+ Combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
