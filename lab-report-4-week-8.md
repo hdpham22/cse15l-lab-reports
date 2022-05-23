@@ -8,7 +8,8 @@ My code:<br>
 It didn't pass
 ![](images/fail1.png)
 Other repo:<br>
-Passed
+Failed with the same output<br>
+our code would need a more involved change because it is mostly brute forced. There needs to be a better way to handle all of the conditions and that would mean we would need to refactor all of our code.
 ## Snippet #2
 Expected output:<br>
 "a.com", "a.com(())", "example.com"
@@ -17,7 +18,8 @@ My code:<br>
 It didn't pass
 ![](images/fail2.png)
 Other repo:<br>
-Passed
+Failed with the same output
+our code would need a more involved change because it is mostly brute forced. There needs to be a better way to handle all of the conditions and that would mean we would need to refactor all of our code.
 ## Snippet #3
 Expected output:<br>
 "'https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule"
@@ -26,5 +28,6 @@ My code:<br>
 It didn't pass
 ![](images/fail3.png)
 Other repo:<br>
-Passed
+Failed with the same output
+our code would need a more involved change because it is mostly brute forced. There needs to be a better way to handle all of the conditions and that would mean we would need to refactor all of our code.
 [Link](https://github.com/Wei-Ji-Chen/markdown-parser) to reviewed markdown parse repo
