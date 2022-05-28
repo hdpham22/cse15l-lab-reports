@@ -29,5 +29,5 @@ It didn't pass
 ![](images/fail3.png)
 Other repo:<br>
 ![](images/fail3.png)
-This issue would require a more involved change that would take more than 10 lines to code. In order to solve the problem of breaks in the file, I would need to implement other helper methods designed to detect these breaks. These methods alone would be more than 10 lines of change.
+This issue would require a more involved change that would take more than 10 lines to code. In order to solve the problem of breaks in the file, I would need to implement other helper methods designed to detect these breaks. These methods alone would be more than 10 lines of change. <br>
 [Link](https://github.com/Wei-Ji-Chen/markdown-parser) to reviewed markdown parse repo
